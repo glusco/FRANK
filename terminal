@@ -1,0 +1,4 @@
+mkdir student-qa-platform
+cd student-qa-platform
+npm init -y
+npm install express mongoose dotenv cors cloudinary multer bcryptjs jsonwebtoken 
